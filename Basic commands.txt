@@ -1,0 +1,14 @@
+Basic Commands of git:
+
+Configuring Git: 
+ - git config --global user.name "My name"
+ - git config --global user.email "someone@tmail.com"
+ - git config --list
+
+Clone & Status:
+ - Clone : cloning (copy) a repo on our local machine
+      git clone <-some link->
+
+ - Status : displays the state of the code 
+      git status
+      
