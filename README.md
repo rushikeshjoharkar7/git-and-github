@@ -13,6 +13,7 @@ Git is :
 Use:
   - to track history
   - to collaborate with other developers
+
   
 # Github :
  - Website that allows developers to store and manage their code using git.
