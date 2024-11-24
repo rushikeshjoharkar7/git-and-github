@@ -1,0 +1,29 @@
+Basic Commands of git:
+
+1. Configuring Git: 
+ - git config --global user.name "My name"
+ - git config --global user.email "someone@tmail.com"
+ - git config --list
+
+-----------------------------------------------------------------------
+
+2. Clone & Status:
+ - Clone : cloning (copy) a repo on our local machine
+      git clone <-some link->
+
+ - Status : displays the state of the code 
+      git status
+      
+      - untracked : new files that git doesn't yet track
+      - modified  : changed
+      - staged    : file is ready to be committed
+      - unmodified: unchanged
+
+-----------------------------------------------------------------------
+
+3. Add & commit
+ - add : addds new or changed files in your working directory to the git staging area
+     git add <-file_name->
+
+ - commit : it is the record of change
+     git commit -m "some mssg"
