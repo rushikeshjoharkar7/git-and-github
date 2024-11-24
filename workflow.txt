@@ -1,0 +1,19 @@
+1. create github repo on website
+2. clone to local 
+3. make changes
+4. add changed/untracked files 
+5. commit changes
+6. push changes to github repo
+
+
+
+
+
+
+
+
+
+
+
+
+
