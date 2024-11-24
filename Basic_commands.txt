@@ -25,5 +25,13 @@ Basic Commands of git:
  - add : addds new or changed files in your working directory to the git staging area
      git add <-file_name->
 
+ - rm : remove files in your working directory to the git staging area
+
  - commit : it is the record of change
      git commit -m "some mssg"
+
+-----------------------------------------------------------------------
+
+4. Push :
+ - push : send your changes to a remote repo
+     git push origin main 
