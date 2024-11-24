@@ -1,0 +1,7 @@
+
+cd : change directory
+cd .. : go to back directory
+
+mkdir : create/make directory
+
+
