@@ -5,6 +5,26 @@
 5. commit changes
 6. push changes to github repo
 
+to upload a folder to remote repo:
+
+git init
+git config --global user.name "user_name"
+git config --global user.email "email"
+git add .
+git commit -m "commit comment"
+git remote add origin <-link of repo->
+git push -u origin main
+git status
+
+
+to pull or clone the folder from repo
+
+git config --global user.name "user_name"
+git config --global user.email "email"
+git clone <repo link>
+git status
+
+
 
 
 
