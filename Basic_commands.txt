@@ -45,6 +45,7 @@ Basic Commands of git:
      git init
      git remote add origin <-link->
      git remote -v (to verify remote)
+     git fetch -a  (is a Git command that fetches all remote-tracking branches and tags from all configured remote repositories.)
      git branch    (to check branch)
      git branch -M main (to rename branch to 'main')
      git push origin main
